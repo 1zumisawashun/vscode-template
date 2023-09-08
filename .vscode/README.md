@@ -4,8 +4,8 @@ VSCode の初期設定に関するリポジトリです。
 
 ## Overview
 
-- 設定内容は下記記事にまとめているので不明点があれば確認してください。
-- [【key-front】VScodeの拡張機能について議論してみた](https://zenn.dev/shuuuuuun/scraps/bcc59eb2f7d640)
+- VSCode の設定内容は下記記事にまとめているので不明点があれば確認してください。
+- [【key-front】VSCode の拡張機能について議論してみた](https://zenn.dev/shuuuuuun/scraps/bcc59eb2f7d640)
 
 ## How to
 
