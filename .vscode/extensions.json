@@ -19,14 +19,5 @@
     "stylelint.vscode-stylelint",
     "wayou.vscode-todo-highlight"
   ],
-  "unwantedRecommendations": [
-    "vivaxy.vscode-conventional-commits",
-    "dsznajder.es7-react-js-snippets",
-    "GitHub.copilot",
-    "yoavbls.pretty-ts-errors",
-    "styled-components.vscode-styled-components",
-    "redhat.vscode-yaml",
-    "vue.volar",
-    "yoyo930021.vuter"
-  ]
+  "unwantedRecommendations": []
 }

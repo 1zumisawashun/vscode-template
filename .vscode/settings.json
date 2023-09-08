@@ -11,5 +11,6 @@
   "stylelint.validate": ["css", "scss", "typescript", "typescriptreact"],
   "typescript.referencesCodeLens.enabled": true,
   "editor.stickyScroll.enabled": true,
-  "typescript.enablePromptUseWorkspaceTsdk": true
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "json.schemaDownload.enable": true
 }
