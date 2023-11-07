@@ -9,6 +9,7 @@
     "dbaeumer.vscode-eslint",
     "GitHub.vscode-pull-request-github",
     "eamodio.gitlens",
+    "donjayamanne.githistory",
     "oderwat.indent-rainbow",
     "MS-CEINTL.vscode-language-pack-ja",
     "ritwickdey.LiveServer",
@@ -17,7 +18,8 @@
     "esbenp.prettier-vscode",
     "natqe.reload",
     "stylelint.vscode-stylelint",
-    "wayou.vscode-todo-highlight"
+    "wayou.vscode-todo-highlight",
+    "firsttris.vscode-jest-runner"
   ],
   "unwantedRecommendations": []
 }

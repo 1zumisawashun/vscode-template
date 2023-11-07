@@ -16,11 +16,19 @@ $ git clone git@github.com:1zumisawashun/template-vscode.git
 $ cd template-vscode && code .
 ```
 
+- 上記の手順で失敗する場合 [Troubleshoot](#Troubleshoot)を確認してください
+
+### 【手順 1】拡張機能をまとめてインストールする
+
 - VSCode が開いたら、サイドバー Extensions タブ → 検索欄「@recommended」で検索する
 
-- 雲マークで全てをインストール
+- 雲マークで全てをインストールする
 
-- 上記の手順で失敗する場合 [Troubleshoot](#Troubleshoot)を確認してください
+### 【手順 2】拡張機能をまとめてインストールする
+
+- VSCode が開いたら、右下に下記のようなポップアップが表示されるので案内に従ってインストールする
+
+![image](https://github.com/1zumisawashun/vscode-template/assets/65071534/7fa05df9-b58b-41d2-aaf9-e7d35e5b2871)
 
 ## Troubleshoot
 
