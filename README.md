@@ -24,6 +24,8 @@ $ cd template-vscode && code .
 
 - 雲マークで全てをインストールする
 
+![image](https://github.com/1zumisawashun/vscode-template/assets/65071534/1abd5d05-6d17-461c-9f89-199ef2cf8926)
+
 ### 【手順 2】拡張機能をまとめてインストールする
 
 - VSCode が開いたら、右下に下記のようなポップアップが表示されるので案内に従ってインストールする
