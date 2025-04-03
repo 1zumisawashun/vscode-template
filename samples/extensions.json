@@ -1,9 +1,0 @@
-{
-  "recommendations": [
-    "dbaeumer.vscode-eslint",
-    "bradlc.vscode-tailwindcss",
-    "csstools.postcss",
-    "Prisma.prisma"
-  ],
-  "unwantedRecommendations": []
-}

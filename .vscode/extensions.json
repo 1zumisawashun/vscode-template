@@ -7,19 +7,27 @@
     "vnaumovs.color-highlight",
     "usernamehw.errorlens",
     "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
     "GitHub.vscode-pull-request-github",
     "eamodio.gitlens",
-    "donjayamanne.githistory",
     "oderwat.indent-rainbow",
     "MS-CEINTL.vscode-language-pack-ja",
-    "ritwickdey.LiveServer",
+    "firsttris.vscode-jest-runner",
     "PKief.material-icon-theme",
     "ionutvmi.path-autocomplete",
     "esbenp.prettier-vscode",
+    "MylesMurphy.prettify-ts",
+    "YoavBls.pretty-ts-errors",
     "natqe.reload",
     "stylelint.vscode-stylelint",
-    "wayou.vscode-todo-highlight",
-    "firsttris.vscode-jest-runner"
+    "wayou.vscode-todo-highlight"
   ],
-  "unwantedRecommendations": []
+  "unwantedRecommendations": [
+    "github.vscode-github-actions",
+    "marp-team.marp-vscode",
+    "Prisma.prisma"
+  ]
 }
