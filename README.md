@@ -13,7 +13,8 @@ VSCode の初期設定に関するリポジトリです。
 
 ```bash
 $ git clone git@github.com:1zumisawashun/template-vscode.git
-$ cd template-vscode && code .
+$ cd template-vscode
+$ code .
 ```
 
 - 上記の手順で失敗する場合 [Troubleshoot](#Troubleshoot)を確認してください
