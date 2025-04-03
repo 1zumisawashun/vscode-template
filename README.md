@@ -13,7 +13,8 @@ VSCode の初期設定に関するリポジトリです。
 
 ```bash
 $ git clone git@github.com:1zumisawashun/template-vscode.git
-$ cd template-vscode && code .
+$ cd template-vscode
+$ code .
 ```
 
 - 上記の手順で失敗する場合 [Troubleshoot](#Troubleshoot)を確認してください
@@ -33,6 +34,10 @@ $ cd template-vscode && code .
 ![image](https://github.com/1zumisawashun/vscode-template/assets/65071534/7fa05df9-b58b-41d2-aaf9-e7d35e5b2871)
 
 ## Troubleshoot
+
+- 検索欄「@recommended」で検索してもおすすめ一覧が表示されない
+
+  - workspace が正しいか確認してください
 
 - https://future-architect.github.io/articles/20200828/
 
