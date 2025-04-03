@@ -35,6 +35,10 @@ $ code .
 
 ## Troubleshoot
 
+- 検索欄「@recommended」で検索してもおすすめ一覧が表示されない
+
+  - workspace が正しいか確認してください
+
 - https://future-architect.github.io/articles/20200828/
 
 - https://dev.classmethod.jp/articles/vscode_settings_file_for_team_dev/
