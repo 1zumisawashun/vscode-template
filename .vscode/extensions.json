@@ -1,33 +1,37 @@
 {
   "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "firsttris.vscode-jest-runner",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-complete-tag",
     "formulahendry.auto-rename-tag",
-    "streetsidesoftware.code-spell-checker",
-    "vnaumovs.color-highlight",
-    "usernamehw.errorlens",
-    "dbaeumer.vscode-eslint",
-    "mhutchie.git-graph",
-    "donjayamanne.githistory",
     "GitHub.copilot",
     "GitHub.copilot-chat",
     "GitHub.vscode-pull-request-github",
-    "eamodio.gitlens",
-    "oderwat.indent-rainbow",
-    "MS-CEINTL.vscode-language-pack-ja",
-    "firsttris.vscode-jest-runner",
-    "PKief.material-icon-theme",
     "ionutvmi.path-autocomplete",
-    "esbenp.prettier-vscode",
+    "mhutchie.git-graph",
+    "MS-CEINTL.vscode-language-pack-ja",
     "MylesMurphy.prettify-ts",
-    "YoavBls.pretty-ts-errors",
     "natqe.reload",
+    "oderwat.indent-rainbow",
+    "PKief.material-icon-theme",
+    "streetsidesoftware.code-spell-checker",
     "stylelint.vscode-stylelint",
-    "wayou.vscode-todo-highlight"
-  ],
-  "unwantedRecommendations": [
+    "tejanium.copy-github-permalink",
+    "usernamehw.errorlens",
+    "vnaumovs.color-highlight",
+    "YoavBls.pretty-ts-errors",
+    // Enable per project as needed
+    "biomejs.biome",
+    "clinyong.vscode-css-modules",
+    "coderabbit.coderabbit-vscode",
     "github.vscode-github-actions",
     "marp-team.marp-vscode",
-    "Prisma.prisma"
-  ]
+    "Prisma.prisma",
+    "typespec.typespec-vscode"
+  ],
+  "unwantedRecommendations": []
 }
