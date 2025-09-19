@@ -24,12 +24,7 @@
     "vnaumovs.color-highlight",
     "YoavBls.pretty-ts-errors",
     // Enable per project as needed
-    "firsttris.vscode-jest-runner",
     "biomejs.biome",
-    "clinyong.vscode-css-modules",
-    "coderabbit.coderabbit-vscode",
-    "github.vscode-github-actions",
-    "marp-team.marp-vscode",
     "Prisma.prisma",
     "typespec.typespec-vscode"
   ],
